@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">composable</string>
+    <string name="welcome">안녕하세요, 이름이 뭐에요?</string>
+    <string name="hint">힌트</string>
+    <string name="done">완료</string>
+    <string name="hello">안녕하세요! %1$s, 반가워요</string>
+</resources>
